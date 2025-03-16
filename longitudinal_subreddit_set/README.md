@@ -1,6 +1,6 @@
 # Longitudinal Subreddit Set
 
-Subreddit metadata and rules for english-language subreddits that were seen in both a July 2023 and Novemeber 2024 crawl.
+Subreddit metadata and rules for english-language subreddits that were seen in both July 2023 and Novemeber 2024.
 
 ## Dataset Schema
 

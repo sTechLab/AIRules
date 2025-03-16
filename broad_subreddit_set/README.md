@@ -1,6 +1,6 @@
 # Broad Subreddit Set
 
-Subreddit metadata and rules for english-language subreddits gathered in a Novemeber 2024.
+Subreddit metadata and rules for english-language subreddits gathered in Novemeber 2024.
 
 ## Dataset Schema
 
