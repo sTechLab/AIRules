@@ -1,5 +1,5 @@
 # AI Rules Datasets
-Datasets accompanying the paper ["AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"](https://arxiv.org/abs/2410.11698) (CHI25).
+Datasets accompanying the paper ["AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"](https://dl.acm.org/doi/10.1145/3706598.3713292) (CHI25).
 
 ## Datasets Overview
 
@@ -13,6 +13,6 @@ Datasets accompanying the paper ["AI Rules? Characterizing Reddit Community Poli
 
 You are free to use this data for research purposes. If you do, please include a citation to our paper:
 ```
-Travis Lloyd, Jennah Gosciak, Tung Nguyen, and Mor Naaman. 2025. AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content. In CHI Conference on Human Factors in Computing Systems (CHI’25), April 26–May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA, 19 pages. https://doi.org/10.1145/3706598.3713292
+Travis Lloyd, Jennah Gosciak, Tung Nguyen, and Mor Naaman. 2025. AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 9, 1–19. https://doi.org/10.1145/3706598.3713292
 ```
 See the paper for additional details about how the paper was gathered and labeled. Feel free to [reach out](mailto:tgl33@cornell.edu) with any questions or issues with the data.
